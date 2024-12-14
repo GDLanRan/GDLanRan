@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GDLanRan
+# This place is under construction ~
+- 👋 Hi, I’m @LanRan-zx. Of course, you can call me Lanran or AFang.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +8,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-GDLanRan/GDLanRan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LanRan-zx/LanRan-zx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
